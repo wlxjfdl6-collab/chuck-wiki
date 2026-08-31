@@ -13,10 +13,18 @@ tags: [chuck-wiki, ko]
 
 CHUCK의 음악, 영상, 기억, 철학과 창작 세계가 서로 연결되는 살아 있는 위키.
 
-## 입구
+## 위키 지도
 
-- [[ko/about|이 위키에 대하여]]
-- 앞으로 공개 승인된 작품, 프로젝트, 인물, 개념 문서가 이곳에 연결됩니다.
+### 세계관과 미학
+
+- [[ko/concepts/style-map|CHUCK Style Map]] — 정서·소리·권력·AI 시대의 인간 선택을 읽는 중심 좌표
+- [[ko/concepts/death-emo-hippie|데스·이모·히피]] — 관 속에서 울고 다시 길 위로 나가는 세 갈래의 세계
+- [[ko/concepts/ai-worldbuilding|AI 시대의 취향·개성화·세계관]] — 예술이 다시 데이터가 되어 다음 예술을 만드는 순환
+- [[ko/concepts/chd-relics|CHD 유물·변신 시스템]] — 반지와 목걸이가 캐릭터와 후속 사건을 호출하는 방식
+
+### 프로젝트
+
+- [[ko/projects/gaebbeoktteop-mv|《개뻑떱》 뮤직비디오]] — 변기 플러시, 역류 탄생, 취중 도시 배회와 잃어버린 유물
 
 ## 세계관 좌표
 

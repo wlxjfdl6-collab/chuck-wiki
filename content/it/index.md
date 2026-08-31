@@ -13,10 +13,18 @@ tags: [chuck-wiki, it]
 
 Un wiki vivo in cui la musica, le immagini, la memoria, la filosofia e l’universo creativo di CHUCK si collegano tra loro.
 
-## Ingresso
+## Mappa del wiki
 
-- [[it/about|Informazioni su questo wiki]]
-- Le opere, i progetti, le persone e i concetti approvati per la pubblicazione verranno collegati qui.
+### Universo ed estetica
+
+- [[it/concepts/style-map|Mappa stilistica di CHUCK]] — coordinate di emozione, suono, potere e scelta umana nell’era dell’AI
+- [[it/concepts/death-emo-hippie|Death · Emo · Hippie]] — tre vie: piangere nella bara e tornare sulla strada
+- [[it/concepts/ai-worldbuilding|Gusto, individuazione e universo nell’era dell’AI]] — l’arte diventa dato e genera nuova arte
+- [[it/concepts/chd-relics|Sistema di reliquie e trasformazioni CHD]] — anello e collana chiamano personaggi ed eventi futuri
+
+### Progetti
+
+- [[it/projects/gaebbeoktteop-mv|Video musicale “Gaebbeoktteop”]] — scarico, nascita per riflusso, vagabondaggio urbano e reliquie perdute
 
 ## Coordinate dell’universo
 
