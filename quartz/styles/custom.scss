@@ -22,10 +22,32 @@ article h1 {
   letter-spacing: -0.025em;
 }
 
+article h2 {
+  margin-top: 2.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid color-mix(in srgb, var(--gray) 34%, transparent);
+}
+
 article blockquote {
-  border-left: 1px solid var(--chuck-violet);
+  border-left: 2px solid var(--chuck-red);
   background: linear-gradient(90deg, rgba(216, 137, 255, 0.08), transparent);
+  border-radius: 0 0.7rem 0.7rem 0;
   padding: 0.8rem 1rem;
+}
+
+article table {
+  font-size: 0.92rem;
+}
+
+article img {
+  border-radius: 0.85rem;
+  box-shadow: 0 1rem 3rem rgb(0 0 0 / 0.22);
+}
+
+article img[src*="lost-broadcast-hero"] {
+  width: 100%;
+  margin: 1.25rem 0 2rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 35%, transparent);
 }
 
 a.internal {
@@ -45,8 +67,17 @@ footer {
   padding-top: 1rem;
 }
 
+::selection {
+  color: #fff8ff;
+  background: rgba(255, 49, 92, 0.5);
+}
+
 @media (max-width: 800px) {
   .page-title a {
     font-size: 1.25rem;
+  }
+
+  article table {
+    font-size: 0.82rem;
   }
 }

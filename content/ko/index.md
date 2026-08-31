@@ -13,6 +13,13 @@ tags: [chuck-wiki, ko]
 
 CHUCK의 음악, 영상, 기억, 철학과 창작 세계가 서로 연결되는 살아 있는 위키.
 
+## 핵심 아카이브
+
+- **[[ko/universe/index|CHD Universe Bible]]** — `CHUCK.PAC / WOUND.CHD / DEATH.CHD / PEACE.CHD`, 유물·기록 권한·transmedia 구조를 설명하는 세계관 중심 문서
+- **[[ko/albums/mulholland-drive-pt2/index|Mulholland Drive Pt.2 — 연옥의 방송 아카이브]]** — 현행 트랙리스트, Pt.1→Pt.2→Pt.3 서사, 미정 상태와 실제 프로젝트
+  - [[ko/albums/mulholland-drive-pt2/visual-system|Pt.2 Visual System]] — lost broadcast, CRT, Y2K anime, shoegaze, pixel RPG UI와 JVC 제작 문법
+  - [[ko/albums/mulholland-drive-pt2/motifs|Pt.2 Motif Map]] — 침묵, 섬, 먹칠, 액체, 죽음의 평준화와 화면 모티프
+
 ## 위키 지도
 
 ### 세계관과 미학

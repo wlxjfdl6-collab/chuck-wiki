@@ -13,6 +13,13 @@ tags: [chuck-wiki, it]
 
 Un wiki vivo in cui la musica, le immagini, la memoria, la filosofia e l’universo creativo di CHUCK si collegano tra loro.
 
+## Archivi centrali
+
+- **[[it/universe/index|CHD Universe Bible]]** — `CHUCK.PAC / WOUND.CHD / DEATH.CHD / PEACE.CHD`, reliquie, autorità di registrazione e struttura transmediale
+- **[[it/albums/mulholland-drive-pt2/index|Mulholland Drive Pt.2 — archivio del purgatorio]]** — tracklist attuale, arco Pt.1→Pt.2→Pt.3, dati confermati e spazi ancora aperti
+  - [[it/albums/mulholland-drive-pt2/visual-system|Sistema visivo di Pt.2]] — lost broadcast, CRT, Y2K anime, shoegaze, pixel RPG UI e JVC
+  - [[it/albums/mulholland-drive-pt2/motifs|Mappa dei motivi di Pt.2]] — silenzio, isola, annerimento, liquidi, morte e schermo
+
 ## Mappa del wiki
 
 ### Universo ed estetica
