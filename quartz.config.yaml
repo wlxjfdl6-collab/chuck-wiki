@@ -232,8 +232,8 @@ plugins:
     enabled: true
     options:
       links:
-        한국어: /ko/
-        Italiano: /it/
+        한국어: https://wlxjfdl6-collab.github.io/chuck-wiki/ko/
+        Italiano: https://wlxjfdl6-collab.github.io/chuck-wiki/it/
     layout:
       position: footer
       priority: 50

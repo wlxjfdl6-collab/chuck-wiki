@@ -9,7 +9,7 @@ tags: [chuck-wiki, it]
 
 # CHUCK WIKI
 
-[한국어 →](/ko/)
+[한국어 →](../ko/)
 
 Un wiki vivo in cui la musica, le immagini, la memoria, la filosofia e l’universo creativo di CHUCK si collegano tra loro.
 

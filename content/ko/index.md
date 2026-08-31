@@ -9,7 +9,7 @@ tags: [chuck-wiki, ko]
 
 # CHUCK WIKI
 
-[Italiano →](/it/)
+[Italiano →](../it/)
 
 CHUCK의 음악, 영상, 기억, 철학과 창작 세계가 서로 연결되는 살아 있는 위키.
 
