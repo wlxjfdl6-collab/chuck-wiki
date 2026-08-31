@@ -11,6 +11,8 @@ tags: [chuck-wiki, mulholland-drive-pt2, lyrics, motifs, purgatory]
 
 [[ko/albums/mulholland-drive-pt2/index|← 앨범 허브]] · [[it/albums/mulholland-drive-pt2/motifs|Italiano]]
 
+> **2차 독해:** 이 지도는 [[ko/albums/mulholland-drive-pt2/canonical-brief|강윤재 전달 정본 브리프]] 이후 가사·메모를 교차한 Vault 연구다. 정본 서사인 `시스템 파괴 실패 → 성적 충돌·사정 → post-nut void → 임사체험 터널 → 검은 정자/미꾸라지 → Pt.3 죽음 예고`와 트랙 순서를 변경하지 않는다.
+
 이 지도는 가사 전문을 공개하지 않고, Pt.1과 Pt.2 자료에서 반복 확인된 **동작·장치·방향 변화**만 정리한다.
 
 ## 1. 침묵으로 답하기

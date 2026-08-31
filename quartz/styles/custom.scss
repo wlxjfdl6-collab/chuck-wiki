@@ -1,15 +1,15 @@
 @use "./variables.scss" as *;
 
 :root {
-  --chuck-violet: #d889ff;
+  --chuck-violet: #5e2ca5;
   --chuck-cyan: #72d8d1;
-  --chuck-red: #ff315c;
+  --chuck-red: #f04a52;
 }
 
 [saved-theme="dark"] body {
   background:
     radial-gradient(circle at 18% 8%, rgba(216, 137, 255, 0.09), transparent 28rem),
-    radial-gradient(circle at 88% 42%, rgba(114, 216, 209, 0.06), transparent 30rem), #0b0910;
+    radial-gradient(circle at 88% 42%, rgba(114, 216, 209, 0.06), transparent 30rem), #060606;
 }
 
 .page-title a {

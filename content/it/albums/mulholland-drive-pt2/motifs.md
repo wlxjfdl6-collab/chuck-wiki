@@ -11,6 +11,8 @@ tags: [chuck-wiki, mulholland-drive-pt2, lyrics, motifs, purgatory]
 
 [[it/albums/mulholland-drive-pt2/index|← Archivio dell’album]] · [[ko/albums/mulholland-drive-pt2/motifs|한국어]]
 
+> **Lettura secondaria:** questa mappa incrocia testi e appunti del Vault dopo il [[it/albums/mulholland-drive-pt2/canonical-brief|brief canonico inviato a Kang Yunjae]]. Non modifica la trama `fallimento del sistema → collisione sessuale ed eiaculazione → post-nut void → tunnel di pre-morte → sperma nero/cobite → annuncio della morte in Pt.3`, né l’ordine delle tracce.
+
 Questa mappa non pubblica i testi integrali. Raccoglie soltanto **azioni, dispositivi e cambi di direzione** confermati nei materiali di Pt.1 e Pt.2.
 
 ## 1. Rispondere con il silenzio

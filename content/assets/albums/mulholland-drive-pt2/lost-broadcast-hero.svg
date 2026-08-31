@@ -50,11 +50,11 @@
 
     <!-- black-clad figure -->
     <ellipse cx="755" cy="800" rx="205" ry="42" fill="#000" opacity=".55"/>
-    <path d="M704 319 C648 346 632 430 643 510 L594 757 C705 802 873 800 961 742 L896 515 C906 421 850 343 808 321 Z" fill="#0b0b0c"/>
+    <path d="M704 319 C648 346 632 430 643 510 L594 757 C705 802 873 800 961 742 L896 515 C906 421 850 343 808 321 Z" fill="#060606"/>
     <ellipse cx="757" cy="284" rx="95" ry="118" fill="#c8c1b3"/>
     <path d="M663 280 C664 163 845 134 856 283 C830 224 795 210 755 210 C706 210 681 235 663 280 Z" fill="#101112"/>
     <!-- missing-file face layers -->
-    <path d="M680 238 C735 210 819 215 847 250 L825 287 L849 321 L811 354 L744 345 L692 369 L668 325 L699 291 Z" fill="#050505"/>
+    <path d="M680 238 C735 210 819 215 847 250 L825 287 L849 321 L811 354 L744 345 L692 369 L668 325 L699 291 Z" fill="#060606"/>
     <path d="M679 260 L838 225 M666 298 L848 266 M676 337 L831 301 M705 363 L817 330" stroke="#28292a" stroke-width="13" stroke-linecap="round" opacity=".9"/>
     <path d="M716 388 L668 555 L714 601" fill="none" stroke="#aaa99f" stroke-width="4" opacity=".28"/>
 
@@ -63,17 +63,17 @@
     <rect x="1040" y="270" width="400" height="300" rx="44" fill="url(#crtGlow)" stroke="#4c5758" stroke-width="9"/>
     <g clip-path="url(#screenClip)">
       <rect x="1040" y="270" width="400" height="300" fill="url(#scan)"/>
-      <path d="M1040 388 C1150 350 1290 438 1440 368" stroke="#c9eee6" stroke-width="5" opacity=".36"/>
-      <path d="M1040 444 C1180 410 1310 486 1440 432" stroke="#6e1f24" stroke-width="4" opacity=".5"/>
+      <path d="M1040 388 C1150 350 1290 438 1440 368" stroke="#5E2CA5" stroke-width="5" opacity=".62"/>
+      <path d="M1040 444 C1180 410 1310 486 1440 432" stroke="#F04A52" stroke-width="4" opacity=".66"/>
       <rect x="1040" y="500" width="400" height="20" fill="#d9e7e4" opacity=".16"/>
     </g>
-    <circle cx="1122" cy="590" r="12" fill="#6e1f24"/>
+    <circle cx="1122" cy="590" r="12" fill="#F04A52"/>
     <circle cx="1170" cy="590" r="9" fill="#555b5a"/>
     <path d="M1072 628 L1414 628 L1460 744 L1018 744 Z" fill="#0e1010"/>
 
     <!-- restrained red grading slash -->
-    <path d="M168 735 L980 635" stroke="#6e1f24" stroke-width="18" opacity=".78"/>
-    <path d="M172 765 L974 665" stroke="#6e1f24" stroke-width="3" opacity=".5"/>
+    <path d="M168 735 L980 635" stroke="#F04A52" stroke-width="18" opacity=".78"/>
+    <path d="M172 765 L974 665" stroke="#F04A52" stroke-width="3" opacity=".5"/>
 
     <!-- broadcast UI -->
     <g fill="#e6e2d8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
@@ -85,7 +85,7 @@
 
     <!-- tracking tears -->
     <rect x="0" y="186" width="1600" height="7" fill="#d8e3df" opacity=".28"/>
-    <rect x="0" y="191" width="740" height="3" fill="#6e1f24" opacity=".55"/>
+    <rect x="0" y="191" width="740" height="3" fill="#F04A52" opacity=".55"/>
     <rect x="520" y="520" width="1080" height="5" fill="#a4c9c2" opacity=".2"/>
     <rect x="0" y="822" width="1600" height="2" fill="#e6e2d8" opacity=".22"/>
   </g>

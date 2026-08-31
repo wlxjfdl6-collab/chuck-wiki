@@ -21,6 +21,8 @@ tags:
 
 [[it/albums/mulholland-drive-pt2/index|← Archivio dell’album]] · [[ko/albums/mulholland-drive-pt2/visual-system|한국어]]
 
+> **Gerarchia delle fonti:** origine, destinazione, ordine delle tracce e colori firma derivano dal [[it/albums/mulholland-drive-pt2/canonical-brief|brief inviato a Kang Yunjae il 21 agosto 2026]]. La banca di scene e la degradazione fisica di questa pagina sono una **grammatica produttiva secondaria** sviluppata successivamente nel Vault.
+
 > Il video di Pt.2 non deve creare un anime: deve **fingere di aver ritrovato una trasmissione perduta**.
 
 Le immagini troppo lisce prodotte dall’AI sono materiale grezzo. Passando attraverso CRT, JVC, carta stampata, rifilmatura e perdita generazionale diventano **la prova di un percorso reale attraverso una stanza e un corpo**.
@@ -108,18 +110,17 @@ Una scena richiede un medium e una forma espressiva.
 
 Tre o più strati simultanei producono un moodboard, non una scena.
 
-## Slot cromatici
+## Colori canonici e luci di supporto
 
-| Slot              | Valore            | Funzione                                              |
-| ----------------- | ----------------- | ----------------------------------------------------- |
-| nero sporco       | `#1C1C1C`         | stanza, tunnel, sfondo principale                     |
-| nero assoluto     | `#000000`         | soltanto l’ultimo fotogramma                          |
-| stanza bianca     | `#E6E2D8`         | parete e sottotitolo; vietato il bianco digitale puro |
-| CRT blue-green    | `#1E3A38–#243F4A` | luce dello schermo                                    |
-| valutazione rossa | `#6E1F24`         | linee di giudizio e warning UI                        |
-| arancione candela | `#E8A33D`         | un solo rito per traccia                              |
+| Livello      | Nome            | Valore            | Funzione                                         |
+| ------------ | --------------- | ----------------- | ------------------------------------------------ |
+| **canonico** | CHUCK PURPLE    | `#5E2CA5`         | segnale di continuità, interiorità e distorsione |
+| **canonico** | CHUCK RED       | `#F04A52`         | collisione, warning, linea di giudizio e accento |
+| **canonico** | CHILDHOOD BLACK | `#060606`         | ombra principale e archivio cancellato           |
+| luce         | spazio bianco   | `#E6E2D8`         | schermi infiniti di Pt.1, carta e sottotitolo    |
+| luce         | CRT blue-green  | `#1E3A38–#243F4A` | illuminazione prodotta dalla rifilmatura         |
 
-La pioggia nera è movimento, non colore: rimane un flusso verticale in controluce.
+Le luci di supporto non sono colori firma autonomi: sono condizioni ambientali che rendono visibili CHUCK PURPLE, RED e CHILDHOOD BLACK. Anche la pioggia nera è soprattutto movimento verticale in controluce.
 
 ## Banca di scene
 

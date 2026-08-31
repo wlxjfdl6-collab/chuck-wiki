@@ -1,105 +1,117 @@
 ---
-title: Mulholland Drive Pt.2 — 연옥의 방송 아카이브
+title: Mulholland Drive Pt.2 — 유실방송 터널 아카이브
 publish: true
 lang: ko
 type: album
 status: developing
+canonical-source: 2026-08-21 Visual Design Listening Package to Kang Yunjae
 updated: 2026-08-31
-tags: [chuck-wiki, mulholland-drive-pt2, album, purgatory, lost-broadcast]
+tags:
+  [
+    chuck-wiki,
+    mulholland-drive-pt2,
+    album,
+    post-nut-void,
+    near-death-tunnel,
+    lost-broadcast,
+  ]
 ---
 
 # Mulholland Drive Pt.2
 
-[[ko/index|← 한국어 홈]] · [[it/albums/mulholland-drive-pt2/index|Italiano]] · [[ko/universe/index|CHD Universe]]
+[[ko/index|← 한국어 홈]] · [[it/albums/mulholland-drive-pt2/index|Italiano]] · [[ko/albums/mulholland-drive-pt2/canonical-brief|Canonical Brief]] · [[ko/universe/index|CHD Universe]]
 
-> **지옥의 닫힌 회로가 연옥의 판정 대기실로 바뀌는 앨범.**
+> **시스템을 부수려다 실패한 인간이 사정 후의 공허에서 출발해 임사체험의 터널을 지나 죽음 직전까지 가는 앨범.**
 
 ![[assets/albums/mulholland-drive-pt2/lost-broadcast-hero.png]]
 
-《Mulholland Drive》 시리즈는 CHUCK이 살아오며 아티스트가 된 과정을 죽음과 변신의 형식으로 기록한다.
+## 정본 출처
 
-| Part     | 상태           | 중심 질문                                               | 몸                             | 소리와 화면                   |
-| -------- | -------------- | ------------------------------------------------------- | ------------------------------ | ----------------------------- |
-| Pt.1     | 지옥           | 누가 나를 이렇게 만들었나?                              | 찢긴 가죽과 배출               | drill·808·압력·파열           |
-| **Pt.2** | **연옥**       | **누가 나를 채점하는가? 왜 우리는 아직 낫지 않았는가?** | 안 벗겨지는 껍질 → 덧칠 → 먹칠 | 튠·속삭임·CRT·유실방송        |
-| Pt.3     | ego death 이후 | 이제 무엇을 만들고 어디에 에너지를 돌릴 것인가?         | 검은연기 뒤 남은 몸            | Afrobeats·psychedelic·땅·자연 |
+이 페이지의 핵심 서사·트랙 순서·색상·디자인 방향은 2026-08-21 CHUCK이 강윤재에게 실제 전송하고 커버 작업에 사용한 [[ko/albums/mulholland-drive-pt2/canonical-brief|Visual Design Listening Package]]를 최우선으로 따른다.
 
-Pt.3의 자리는 천국이 아니다. 신이 위에서 내려주는 구원 대신 땅, 몸, 사람, 자연과 리듬이 옆에서 시작된다. 이 시리즈의 목적은 “죽고 좋아지는 이야기”보다 **만들 수 있는 사람이 되어가는 과정**에 가깝다.
+이후 작성된 LLM Wiki 가사·모티프·비주얼 해석은 보조 자료다. 정본과 충돌할 경우 이 브리프와 이후 CHUCK의 직접 수정이 우선한다.
 
-## Pt.1에서 넘어오는 다리
+## 4파트 시리즈의 두 번째 작품
 
-Pt.2는 처음부터 시작하지 않는다. Pt.1의 마지막 소리와 반복문이 화면 크기만 바꾼 채 계속된다.
+《MULHOLLAND DRIVE》는 총 네 개의 파트로 이어진다. Pt.2는 Pt.1의 마지막 `Fuck the System` 직후에 열린다.
 
-1. `Fuck The System`의 마지막 소리가 Pt.2 첫 화면 위로 먼저 넘어온다.
-2. 16:9 화면이 음악을 끊지 않은 채 4:3 CRT 프레임으로 좁아진다.
-3. Pt.1에서 “내가 만든 길을 닦으며 더 걷겠다”던 의지가 Pt.2에서는 그 길 위에서 기진맥진한 몸으로 돌아온다.
-4. Pt.1에서 화자가 침묵으로 답했다면, Pt.2의 `Mayday`에서는 화자가 응답을 요청하고 침묵을 돌려받는다.
-5. Pt.1에서 금지됐던 죽음의 문장이 Pt.2에서는 위계를 평평하게 만드는 명제로 입 밖에 나온다.
-6. Pt.1에서 떠날 수 있다고 믿었던 섬은 Pt.2에서 보이지만 도달할 수 없는 섬이 된다.
+Pt.1의 흰 공간에는 무한한 스크린이 있고, 주인공은 그 스크린들이 만든 매트릭스 세계를 부수려 하지만 실패한다. Pt.2는 승리 뒤가 아니라 **파괴 실패 뒤의 절망**에서 시작한다.
 
-그래서 Pt.2의 핵심 변화는 더 강한 공격이 아니라 **말하는 위치와 화면의 교체**다.
+## 시작과 종점
 
-## 현재 트랙리스트
+`Fuck the System`은 슬로건만이 아니라 시스템과의 성적 충돌이다. 충돌과 사정 뒤에 남는 공허가 `then the post-nut void`다.
 
-2026-07-29 CHUCK이 직접 확정한 현행 목록을 따른다. 번호 6은 임의로 채우지 않는다.
+그 공허에서 주인공은 죽음에 가까워지는 과정을 임사체험의 터널처럼 지난다. 마지막 `Migguragy`의 미꾸라지는 **검은 정자**, 터널 안을 움직이는 마지막 생명 신호다.
 
-|   # | 트랙                     | 현재 확인 상태                            | 공개 세계관에서 맡는 기능                                                     |
-| --: | ------------------------ | ----------------------------------------- | ----------------------------------------------------------------------------- |
-|   1 | `then the post-nut void` | `보이드v2` 가사 존재, 최종 버전 확인 필요 | 터널, 붉은 채점, 검은비와 엔딩크레딧. 화려한 귀환이 피로로 즉시 붕괴하는 장면 |
-|   2 | `ERD`                    | title-only. 약어와 가사 미확정            | 향, 영정사진, McQueen scarf와 검은 의례라는 시각 메모만 확정                  |
-|   3 | `Goodbye punpun`         | `머릿말` 대표본 존재                      | 흰 방, 안 벗겨지는 껍질, 덧칠. Pt.1 루프에서 Pt.2 채널로 들어오는 문          |
-|   4 | `Island`                 | 가사 존재                                 | 갈 수 있던 출구가 볼 수만 있는 좌표로 굳는 관계의 섬                          |
-|   5 | `Mayday`                 | 가사·보컬 지시 존재                       | 구조 요청과 무응답. Pt.1의 침묵·먹칠·죽음 금기를 한 곡에서 뒤집는 정서적 심장 |
-|   6 | —                        | **의도적 공백 / 미정**                    | 과거 후보곡을 임의 삽입하지 않음                                              |
-|   7 | `Unhealed Friends`       | title-only                                | 혼자만 아픈 것이 아니라 여러 사람이 함께 안 나은 상태. 블랙코미디와 군상 장면 |
-|   8 | `Migguragy feat. Jaedal` | 대표 가사 없음, 변신 비주얼 메모 존재     | 인간 → 비둘기 → 미꾸라지 → 검은연기. Pt.3 문 앞의 하강과 소멸                 |
+```text
+무한 스크린의 매트릭스
+→ 파괴 실패
+→ 시스템과의 성적 충돌
+→ 사정
+→ post-nut void
+→ 임사체험의 터널
+→ 검은 정자 / 미꾸라지
+→ Pt.3 죽음 테마 예고
+```
 
-`ERD`, `Unhealed Friends`, `Migguragy`는 빈칸을 설정으로 위장하지 않는다. 현재 공개 페이지에서는 **확정된 제목·메모와 아직 없는 데이터의 경계**가 그대로 보존된다.
+Pt.2는 죽음 이후의 치유나 ego-death 이후를 다루는 앨범이 아니다. **죽음 직전에서 끝나며, Pt.3가 본격적인 죽음 테마를 시작한다고 예고한다.**
 
-과거 후보였던 `곡성 freestyle`, `똬리`, `메탈맨`, `Sarah`, `Candle`, `뿌린대로 NO MERCY`는 현행 목록에서 제외하고 역사 자료로만 남긴다.
+## 정본 트랙리스트
 
-## 앨범의 일곱 모티프
+|   # | 트랙                     | 2026-08-21 상태        | 서사 위치                                          |
+| --: | ------------------------ | ---------------------- | -------------------------------------------------- |
+|   1 | `then the post-nut void` | listening package 포함 | 사정 직후의 공허. 터널의 입구                      |
+|   2 | `Goodbye punpun`         | listening package 포함 | 공허 뒤 통과 구간의 두 번째 장면                   |
+|   3 | `ERD`                    | listening package 포함 | 세부 의미는 트랙 원문·음원 기준으로 추후 확정      |
+|   4 | `Island`                 | listening package 포함 | 터널 안 관계·거리의 장면                           |
+|   5 | `Mayday`                 | listening package 포함 | 구조 신호와 응답의 장면                            |
+|   6 | `개뻑떱`                 | **MV 제작 중**         | Pt.2의 공식 여섯 번째 트랙·영상 사건               |
+|   7 | `Unhealed Friends`       | 당시 **스케치만 존재** | 미완 상태도 listening package에 명시               |
+|   8 | `Migguragy feat. Jaedal` | listening package 포함 | 검은 정자/미꾸라지. 임사체험 터널의 끝과 Pt.3 예고 |
 
-Pt.2는 단어 목록이 아니라 동작과 장치로 연결된다.
+트랙 6은 공백이 아니며 `개뻑떱`이다. `Goodbye punpun`이 02, `ERD`가 03이다.
 
-1. **응답 없는 통화** — 말은 전송되지만 돌아오는 것은 침묵
-2. **길을 닦으며 걷기** — 의지의 다음 날, 소진된 몸이 같은 길을 계속 감
-3. **껍질·덧칠·먹칠** — 새 몸이 오지 않아 표면을 계속 겹침
-4. **떨어지는 액체** — 빗물·녹은 얼음·검은비가 바닥과 화면에 고임
-5. **몸 밖으로 밀어내기** — 감정이 위장·온도·압력과 배출로 표현됨
-6. **죽음의 평준화** — 금지된 말이 위계와 채점을 끄는 문장이 됨
-7. **화면으로 세계 보기** — TV, 자막, 음소거, error와 엔딩크레딧
+## 가짜 유실 방송의 매체
 
-→ [[ko/albums/mulholland-drive-pt2/motifs|Pt.2 Motif Map]]
+Pt.2의 비주얼은 **기록에서 지워진 2000년대 투니버스 심야 애니메이션**이다. 오래된 방송을 우연히 다시 틀었지만 화면 속 기억이 점차 망가져 있다.
 
-## 없는 2004년 방송
-
-Pt.2의 Y2K anime·Tooniverse·CRT·pixel RPG UI는 외부 유행을 씌운 장식이 아니다. Pt.1 가사 안에 이미 TV, 자막 요청, 음소거, 오류와 종료 버튼이 있었고, Pt.2에는 검은비가 엔딩크레딧처럼 흐른다.
-
-따라서 시각적 목표는 애니메이션을 새로 만드는 일이 아니라 **2004년에 단 한 번 방송되고 사라진 프로그램의 테이프를 발굴한 척하는 일**이다.
-
-- 가짜 채널 ID와 `방영 기록 없음`
-- 4:3 프레임과 CRT 곡면
-- CHUCK만 다른 해상도와 그림체
-- 특정 순간에만 무너지는 shoegaze 가독성
-- 감정을 대신 말하는 차가운 상태창
-- JVC로 재촬영된 실제 방과 몸
+- Y2K 한국 애니메이션과 심야 편성
+- CRT, VHS, 캠코더, 저화질 digital noise
+- shoegaze 번짐과 emo 감정 과잉
+- pixel art, RPG menu, save file, dialogue window
+- 《릴리 슈슈의 모든 것》 같은 청춘의 빛과 잔상
+- 흰 공간, 무한 스크린, 터널과 방송 종료 뒤의 흔적
+- 실제로 존재했던 것 같지만 원본이 없는 잘못 복원된 기억
 
 → [[ko/albums/mulholland-drive-pt2/visual-system|Pt.2 Visual System]]
 
-## 연결된 실제 프로젝트
+## 시그니처 컬러
 
-- [[ko/projects/gaebbeoktteop-mv|《개뻑떱》 뮤직비디오]] — 플러시, 역류 탄생, 취중 도시 배회와 유물 소실. 현재 번호 트랙리스트에는 삽입하지 않고 Pt.2 연계 영상 사건으로 둔다.
-- [[ko/concepts/chd-relics|CHD 유물·변신 시스템]] — McQueen 반지와 WOUND 목걸이가 앨범 밖 세계관으로 사건을 넘긴다.
-- [[ko/universe/index|CHD Universe Bible]] — 같은 앨범 사건이 CHUCK.PAC, WOUND, DEATH, PEACE 네 채널에서 다르게 기록되는 구조.
+| 명칭            | 코드      |
+| --------------- | --------- |
+| CHUCK PURPLE    | `#5E2CA5` |
+| CHUCK RED       | `#F04A52` |
+| CHILDHOOD BLACK | `#060606` |
 
-## 아직 닫지 않는 것
+## 설명보다 매체를 디자인한다
 
-- 트랙 6의 정체
-- `ERD`의 정확한 의미와 가사
-- `then the post-nut void`의 최종 가사 버전
-- `Unhealed Friends` 본문
-- `Migguragy feat. Jaedal`의 대표 가사와 피처링 크레딧 최종 형태
-- 발매일·러닝타임·최종 마스터 순서
+원하는 것은 곡의 내용을 그대로 그린 삽화가 아니다.
 
-이 빈칸들은 결함이 아니라 현재 제작 상태다. 공개 위키는 완성된 신화를 가장하지 않고 **세계가 만들어지는 과정과 버전 차이까지 아카이브**한다.
+- Pt.1과 뒤늦게 연결되는 공통 단서
+- 시리즈 전체의 로고와 타이포그래피
+- 방송 캡처·오래된 DVD 패키지 같은 표면
+- 오류 자막, time code, channel logo, save slot
+- 시작과 끝을 잇는 터널의 감각
+- 감정은 크지만 설명적이지 않은 이미지
+
+피하는 것은 generic cyberpunk, 깨끗한 digital image, 단순 VHS filter, 흔한 dark/gothic cover와 레퍼런스 복제다.
+
+## 2차 해석 자료
+
+[[ko/albums/mulholland-drive-pt2/motifs|Pt.2 Motif Map]]은 트랙 가사와 Vault 연구에서 나온 보조 독해다. 무응답·섬·껍질·먹칠·액체·평준화 같은 연결은 작품을 확장하지만, 위의 시작·종점·트랙 순서를 바꾸지 않는다.
+
+## 연결된 사건
+
+- [[ko/projects/gaebbeoktteop-mv|《개뻑떱》 MV]] — Pt.2 공식 트랙 6의 영상 사건
+- [[ko/concepts/chd-relics|CHD 유물·변신 시스템]] — MV 엔딩에서 다음 세계관으로 이어지는 유물
+- [[ko/universe/index|CHD Universe Bible]] — 앨범 사건을 여러 채널이 다르게 기록하는 구조

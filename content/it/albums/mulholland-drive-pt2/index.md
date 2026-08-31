@@ -1,103 +1,117 @@
 ---
-title: Mulholland Drive Pt.2 — archivio di trasmissione del purgatorio
+title: Mulholland Drive Pt.2 — archivio del tunnel perduto
 publish: true
 lang: it
 type: album
 status: developing
+canonical-source: 2026-08-21 Visual Design Listening Package to Kang Yunjae
 updated: 2026-08-31
-tags: [chuck-wiki, mulholland-drive-pt2, album, purgatory, lost-broadcast]
+tags:
+  [
+    chuck-wiki,
+    mulholland-drive-pt2,
+    album,
+    post-nut-void,
+    near-death-tunnel,
+    lost-broadcast,
+  ]
 ---
 
 # Mulholland Drive Pt.2
 
-[[it/index|← Home italiana]] · [[ko/albums/mulholland-drive-pt2/index|한국어]] · [[it/universe/index|CHD Universe]]
+[[it/index|← Home italiana]] · [[ko/albums/mulholland-drive-pt2/index|한국어]] · [[it/albums/mulholland-drive-pt2/canonical-brief|Brief canonico]] · [[it/universe/index|CHD Universe]]
 
-> **Il circuito chiuso dell’inferno viene trasformato nella sala d’attesa del purgatorio.**
+> **Un essere umano fallisce nel distruggere il sistema, parte dal vuoto dopo l’eiaculazione e attraversa un tunnel di pre-morte fino alla soglia della morte.**
 
 ![[assets/albums/mulholland-drive-pt2/lost-broadcast-hero.png]]
 
-La serie _Mulholland Drive_ registra il processo con cui CHUCK è diventato artista, usando la forma della morte e della trasformazione.
+## Fonte canonica
 
-| Parte    | Stato            | Domanda centrale                                         | Corpo                                           | Suono e schermo                           |
-| -------- | ---------------- | -------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
-| Pt.1     | inferno          | Chi mi ha reso così?                                     | pelle strappata ed espulsione                   | drill, 808, pressione, rottura            |
-| **Pt.2** | **purgatorio**   | **Chi mi giudica? Perché noi non siamo ancora guariti?** | guscio che non si stacca → strati → annerimento | tune, sussurro, CRT, trasmissione perduta |
-| Pt.3     | dopo l’ego death | Che cosa costruire e dove dirigere l’energia?            | corpo rimasto dopo il fumo nero                 | Afrobeats, psichedelia, terra e natura    |
+Trama, sequenza delle tracce, colori e direzione visiva seguono prima di tutto il [[it/albums/mulholland-drive-pt2/canonical-brief|Visual Design Listening Package]] realmente inviato da CHUCK a Kang Yunjae il 21 agosto 2026 e usato per il lavoro di copertina.
 
-Pt.3 non occupa il posto del paradiso. Al posto di una salvezza consegnata dall’alto, terra, corpo, persone, natura e ritmo cominciano lateralmente. La serie è meno una storia di “morire e stare meglio” che **il processo di diventare qualcuno capace di creare**.
+Le analisi successive del LLM Wiki sono materiali secondari. In caso di conflitto, prevalgono questo brief e le correzioni dirette successive di CHUCK.
 
-## Il ponte da Pt.1
+## Seconda opera di una serie in quattro parti
 
-Pt.2 non ricomincia da zero. L’ultimo suono e il ciclo di Pt.1 continuano mentre cambia soltanto il formato dello schermo.
+_MULHOLLAND DRIVE_ è composta da quattro parti. Pt.2 si apre immediatamente dopo `Fuck the System`, ultima scena di Pt.1.
 
-1. Il finale di `Fuck The System` passa sopra la prima immagine di Pt.2.
-2. Il 16:9 si restringe in 4:3 senza interrompere la musica.
-3. La volontà di camminare su una strada costruita da sé torna come corpo esausto sulla stessa strada.
-4. In Pt.1 il narratore rispondeva con il silenzio; in `Mayday` chiede una risposta e riceve silenzio.
-5. La morte, parola proibita in Pt.1, diventa in Pt.2 una frase che livella le gerarchie.
-6. L’isola che sembrava raggiungibile diventa un’isola visibile ma inaccessibile.
+In uno spazio bianco, il protagonista è circondato da schermi infiniti. Tenta di distruggere il mondo-matrice costruito al loro interno, ma fallisce. Pt.2 comincia non dopo una vittoria, ma **dopo il fallimento della distruzione**.
 
-Il cambiamento decisivo non è un attacco più forte, ma **la sostituzione della posizione della voce e dello schermo**.
+## Origine e destinazione
 
-## Tracklist attuale
+`Fuck the System` è anche una collisione sessuale con il sistema. Il vuoto che segue lo scontro e l’eiaculazione diventa `then the post-nut void`.
 
-La lista segue la versione indicata direttamente da CHUCK il 29 luglio 2026. Il numero 6 resta vuoto.
+Da lì, il protagonista attraversa l’avvicinamento alla morte come un tunnel di pre-morte. In `Migguragy`, il cobite è **sperma nero**, l’ultimo segnale di vita che nuota nel tunnel.
 
-|   # | Traccia                  | Stato verificato                                        | Funzione nell’universo pubblico                                                                                      |
-| --: | ------------------------ | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-|   1 | `then the post-nut void` | testo `Void v2` presente; versione finale da confermare | tunnel, valutazione rossa, pioggia nera e titoli di coda; il ritorno spettacolare crolla subito nella fatica         |
-|   2 | `ERD`                    | solo titolo; significato e testo non confermati         | sono confermati soltanto incenso, ritratto funebre, sciarpa McQueen e rito nero                                      |
-|   3 | `Goodbye punpun`         | versione rappresentativa `Preface` presente             | stanza bianca, guscio che non si stacca e nuovi strati; porta fra il loop di Pt.1 e il canale Pt.2                   |
-|   4 | `Island`                 | testo presente                                          | l’uscita diventa una coordinata osservabile ma irraggiungibile                                                       |
-|   5 | `Mayday`                 | testo e indicazione vocale presenti                     | richiesta di soccorso e mancata risposta; cuore emotivo che inverte silenzio, annerimento e tabù della morte di Pt.1 |
-|   6 | —                        | **vuoto intenzionale / non deciso**                     | nessuna vecchia candidata viene inserita arbitrariamente                                                             |
-|   7 | `Unhealed Friends`       | solo titolo                                             | non una persona ferita, ma molte persone non guarite insieme; scena collettiva e commedia nera                       |
-|   8 | `Migguragy feat. Jaedal` | nessun testo principale; nota visiva presente           | umano → piccione → cobite → fumo nero; discesa davanti alla porta di Pt.3                                            |
+```text
+matrice di schermi infiniti
+→ fallimento della distruzione
+→ collisione sessuale con il sistema
+→ eiaculazione
+→ post-nut void
+→ tunnel di pre-morte
+→ sperma nero / cobite
+→ annuncio della morte in Pt.3
+```
 
-Per `ERD`, `Unhealed Friends` e `Migguragy`, il wiki non trasforma il vuoto in falsa lore. Conserva il confine fra titolo e appunti confermati da una parte e dati ancora assenti dall’altra.
+Pt.2 non è l’album della guarigione dopo la morte o del dopo ego-death. **Finisce immediatamente prima della morte e annuncia che Pt.3 inizierà il tema vero e proprio della morte.**
 
-Le vecchie candidate `Gokseong freestyle`, `Ttwari`, `Metal Man`, `Sarah`, `Candle` e `No Mercy` rimangono documenti storici, non tracce della lista corrente.
+## Tracklist canonica
 
-## Sette motivi dell’album
+|   # | Traccia                  | Stato del 21-08-2026             | Posizione narrativa                                                      |
+| --: | ------------------------ | -------------------------------- | ------------------------------------------------------------------------ |
+|   1 | `then the post-nut void` | inclusa nel listening package    | vuoto dopo l’eiaculazione, ingresso del tunnel                           |
+|   2 | `Goodbye punpun`         | inclusa                          | seconda scena del passaggio                                              |
+|   3 | `ERD`                    | inclusa                          | significato dettagliato da confermare attraverso audio e testo originali |
+|   4 | `Island`                 | inclusa                          | relazione e distanza nel tunnel                                          |
+|   5 | `Mayday`                 | inclusa                          | segnale di soccorso e risposta                                           |
+|   6 | `개뻑떱`                 | **video musicale in produzione** | sesta traccia ufficiale e relativo evento visivo                         |
+|   7 | `Unhealed Friends`       | allora **soltanto sketch**       | lo stato incompleto è dichiarato nel package                             |
+|   8 | `Migguragy feat. Jaedal` | inclusa                          | sperma nero/cobite, fine del tunnel e annuncio di Pt.3                   |
 
-1. **chiamata senza risposta**
-2. **camminare costruendo la propria strada**
-3. **guscio, strati, annerimento e fumo nero**
-4. **liquido che cade e resta sulla superficie**
-5. **espellere emozione attraverso corpo, calore e pressione**
-6. **morte come livellatore delle gerarchie**
-7. **vedere il mondo attraverso TV, sottotitoli, mute, error e titoli di coda**
+Il numero 6 non è vuoto: è `개뻑떱`. `Goodbye punpun` è 02 e `ERD` è 03.
 
-→ [[it/albums/mulholland-drive-pt2/motifs|Mappa dei motivi di Pt.2]]
+## Medium della trasmissione perduta
 
-## Una trasmissione del 2004 mai esistita
+L’immagine di Pt.2 è **un anime notturno Tooniverse degli anni Duemila cancellato dagli archivi**. Una vecchia trasmissione torna per caso, ma la memoria sullo schermo si danneggia.
 
-Y2K anime, Tooniverse, CRT e pixel RPG UI non sono decorazioni esterne. I testi di Pt.1 contenevano già televisione, richiesta di sottotitoli, mute, error e pulsante di chiusura; Pt.2 trasforma la pioggia nera in titoli di coda.
-
-L’obiettivo non è quindi creare un nuovo anime, ma **fingere di aver ritrovato la cassetta di un programma trasmesso una sola volta nel 2004 e poi scomparso**.
-
-- channel ID inventato e `nessun registro di trasmissione`
-- 4:3 e vetro curvo CRT
-- CHUCK in una risoluzione diversa dal resto del mondo
-- perdita di leggibilità shoegaze soltanto in momenti precisi
-- status window fredda che parla al posto dell’emozione
-- stanza e corpo reali rifilmati con JVC
+- animazione coreana Y2K e palinsesto notturno
+- CRT, VHS, videocamera e digital noise a bassa definizione
+- diffusione shoegaze ed eccesso emo
+- pixel art, menu RPG, save file e dialogue window
+- luce giovanile nello spirito di _All About Lily Chou-Chou_
+- spazio bianco, schermi infiniti, tunnel e residuo dopo la chiusura
+- memoria restaurata male di un’opera che sembra reale ma non possiede originale
 
 → [[it/albums/mulholland-drive-pt2/visual-system|Sistema visivo di Pt.2]]
 
-## Progetti collegati
+## Colori canonici
 
-- [[it/projects/gaebbeoktteop-mv|Video musicale “Gaebbeoktteop”]] — flush, nascita per riflusso, vagare urbano e perdita delle reliquie. È un evento visivo associato a Pt.2 senza essere inserito arbitrariamente nella tracklist numerata.
+| Nome            | Codice    |
+| --------------- | --------- |
+| CHUCK PURPLE    | `#5E2CA5` |
+| CHUCK RED       | `#F04A52` |
+| CHILDHOOD BLACK | `#060606` |
+
+## Disegnare il medium, non spiegare la trama
+
+La direzione non richiede illustrazioni letterali delle canzoni.
+
+- indizi comuni che si colleghino in ritardo a Pt.1
+- logo e tipografia della serie
+- superficie da screen capture o vecchio DVD
+- sottotitoli corrotti, time code, channel logo e save slot
+- sensazione di tunnel fra inizio e fine
+- emozione enorme, immagine non esplicativa
+
+Sono escluse le forme generiche di cyberpunk, l’immagine digitale pulita, il semplice filtro VHS, la copertina dark/gothic convenzionale e la copia delle reference.
+
+## Letture secondarie
+
+La [[it/albums/mulholland-drive-pt2/motifs|Mappa dei motivi]] nasce dai testi e dalle ricerche del Vault. Silenzio, isola, guscio, annerimento e liquidi espandono l’opera, ma non modificano origine, destinazione e ordine canonico.
+
+## Eventi collegati
+
+- [[it/projects/gaebbeoktteop-mv|Video musicale “Gaebbeoktteop”]] — evento visivo ufficiale della traccia 6
 - [[it/concepts/chd-relics|Sistema di reliquie CHD]]
 - [[it/universe/index|CHD Universe Bible]]
-
-## Domande ancora aperte
-
-- identità della traccia 6
-- significato e testo di `ERD`
-- versione finale di `then the post-nut void`
-- testo completo di `Unhealed Friends`
-- testo e crediti finali di `Migguragy feat. Jaedal`
-- data, durata e ordine definitivo del master
-
-Questi spazi sono lo stato reale della produzione. Il wiki non finge un mito già concluso: archivia **il processo di costruzione e le differenze di versione**.
