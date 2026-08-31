@@ -26,19 +26,19 @@ GTO의 플러시 구도에서 시작해 《Trainspotting》의 변기 잠수를 
 
 손이 낡은 크롬 레버를 누른다. 생활기구의 작은 동작이 시스템의 폐기 명령처럼 과장된다.
 
-![낡은 변기 레버를 누르는 손](https://wlxjfdl6-collab.github.io/chuck-wiki/assets/projects/gaebbeoktteop/flush-lever-v1.png)
+![[assets/projects/gaebbeoktteop/flush-lever-v1.png]]
 
 ### 2. REVERSE DIVE
 
 검은 물이 배수 방향과 반대로 차오르고 젖은 장발 남자가 변기 안쪽에서 현실로 나온다. 탈출보다 **역류·탄생·되찾기**의 이미지다.
 
-![검은 물이 찬 변기에서 역류해 나오는 장발 남자](https://wlxjfdl6-collab.github.io/chuck-wiki/assets/projects/gaebbeoktteop/reverse-dive-v1.png)
+![[assets/projects/gaebbeoktteop/reverse-dive-v1.png]]
 
 ### 3. STATION IDENT
 
 인물이 카메라를 보는 순간 화면이 방송국 ident처럼 점거된다. RGB 어긋남, 스캔라인과 수평 tracking tear가 매끄러운 AI 표면을 깨뜨린다.
 
-![CHUCK MULHOLAND DRIVE VHS 타이포](https://wlxjfdl6-collab.github.io/chuck-wiki/assets/projects/gaebbeoktteop/station-ident-v2.jpg)
+![[assets/projects/gaebbeoktteop/station-ident-v2.jpg]]
 
 인트로의 감정 구조는 `폐기 명령 → 역류 탄생 → 방송 주체로 전환`이다.
 

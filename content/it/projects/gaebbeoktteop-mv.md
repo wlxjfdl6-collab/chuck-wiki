@@ -26,19 +26,19 @@ Il video parte dall’inquadratura dello scarico di _GTO_ e inverte l’immersio
 
 Una mano abbassa una vecchia leva cromata. Il piccolo gesto domestico viene amplificato fino a sembrare un ordine di espulsione del sistema.
 
-![Mano che abbassa una vecchia leva del water](https://wlxjfdl6-collab.github.io/chuck-wiki/assets/projects/gaebbeoktteop/flush-lever-v1.png)
+![[assets/projects/gaebbeoktteop/flush-lever-v1.png]]
 
 ### 2. REVERSE DIVE
 
 L’acqua nera risale contro la direzione dello scarico e un uomo bagnato emerge dal water. Non è una fuga elegante: è un’immagine di **riflusso, nascita e riconquista**.
 
-![Uomo dai capelli lunghi che emerge da un water pieno d’acqua nera](https://wlxjfdl6-collab.github.io/chuck-wiki/assets/projects/gaebbeoktteop/reverse-dive-v1.png)
+![[assets/projects/gaebbeoktteop/reverse-dive-v1.png]]
 
 ### 3. STATION IDENT
 
 Quando l’uomo guarda la camera, lo schermo viene occupato come dall’ident di una stazione televisiva. Disallineamento RGB, scanline e tracking tear orizzontali rompono la superficie troppo liscia dell’AI.
 
-![Tipografia VHS CHUCK MULHOLAND DRIVE](https://wlxjfdl6-collab.github.io/chuck-wiki/assets/projects/gaebbeoktteop/station-ident-v2.jpg)
+![[assets/projects/gaebbeoktteop/station-ident-v2.jpg]]
 
 La struttura emotiva dell’intro è: `ordine di espulsione → nascita per riflusso → trasformazione nel soggetto che trasmette`.
 
