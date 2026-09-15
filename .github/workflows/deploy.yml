@@ -34,6 +34,10 @@ jobs:
         run: |
           mkdir -p public/review
           cp protected-reviews/*.html public/review/
+      - name: Copy encrypted exact-upload reader
+        run: |
+          mkdir -p public/reader
+          cp protected-reader/index.html public/reader/index.html
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
