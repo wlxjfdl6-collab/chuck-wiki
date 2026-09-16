@@ -38,6 +38,10 @@ jobs:
         run: |
           mkdir -p public/reader
           cp protected-reader/index.html public/reader/index.html
+      - name: Copy encrypted video review
+        run: |
+          mkdir -p public/video-review
+          cp protected-video-review/index.html protected-video-review/app.js protected-video-review/style.css protected-video-review/payload.json public/video-review/
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
